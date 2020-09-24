@@ -1,0 +1,1 @@
+This is my Web Scraping Project for Stage D on the Hamoye Data Science internship. 
